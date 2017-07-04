@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejemplo Tab Layout</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="section_format">Sección: %1$d</string>
+</resources>
